@@ -8,7 +8,7 @@
 ##############################################################################
 
 # Read frequency changes in to a variable
-with open('./input.txt', 'r') as f:
+with open('../input.txt', 'r') as f:
     data_in = f.readlines()
 
 # Set initial frequecy as 0
